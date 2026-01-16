@@ -28,10 +28,10 @@ I am Aditya Vispute, a computer science engineering student and software develop
 
 
 ## 🌙 Fun Fact
-### - I am A gamer who can play them all time 
-### - I also love to watch series
-### - I am a Night Owl, Whoes Brain Start In Night On High
-### - I love Build My Own Thing 
+- 🎮 I am A gamer who can play them all time 
+- 📷 I also love to watch series
+- 🦉 I am a Night Owl, Whoes Brain Start In Night On High
+- 🧑🏼‍💻 I love Build My Own Thing 
 ---
 
 ## 💰 You can help me by Donating
