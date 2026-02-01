@@ -29,9 +29,9 @@ I am Aditya Vispute, a computer science engineering student and software develop
 
 
 ## 💻 Technical Ecosystem
-
-### 🚀 Technical Ecosystem in Motion
-<marquee direction="right" scrollamount="10">
+## 🚀 Technical Ecosystem in Motion
+<marquee behavior="scroll" direction="right" scrollamount="10" loop="infinite" >
+<div style="white-space: nowrap;">
 <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c"/>
 <img src="https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk"/>
