@@ -1,7 +1,7 @@
 ![Banner Profile](https://profilyze-api.vercel.app/api/profile/banner?name=Aditya+Ramesh+Vispute&role=PYTHON+DEVELOPER&background=girlRain&tech=python&streaks=fire&view=sharingan&skills=github%2Cjs%2Cpython)
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=F79F0A&duration=4000&size=30&center=true&vCenter=true&width=600&height=100&lines=नमो+नमः+मित्र;भवान्+कथम्+अस्ति+?;अहं+आदित्यः+अस्मि।;Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Curious+About+Tech&hearts;" width="900"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=F79F0A&duration=4000&size=30&center=true&vCenter=true&width=600&height=100&lines=नमो+नमः+मित्र;भवान्+कथम्+अस्ति+?;अहं+आदित्यः+अस्मि।;Self-taught+Front-End+/+Back-end+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Curious+About+Tech&hearts;" width="900"></a>
 </p>
 
 
