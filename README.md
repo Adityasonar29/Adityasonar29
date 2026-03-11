@@ -19,8 +19,9 @@ I am Aditya Vispute, a computer science engineering student and software develop
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aditya_vispute) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityavispute29@gmail.com)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aditya_vispute)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-vispute-155105391/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityavispute29@gmail.com)
 
 ## 📌 Highlights
 - Actively building AI-powered and backend systems
