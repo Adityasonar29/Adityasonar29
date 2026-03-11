@@ -5,12 +5,12 @@
 </p>
 
 
-<h1>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"/>
- Hi There , I am Aditya Ramesh Vispute
-</h1>
-
-
+<div style="display:flex; align-items:center; justify-content:space-between;">
+  <h1 style="margin:0;">
+    👋 Hi There, I am Aditya Ramesh Vispute
+  <img align="right" src="https://komarev.com/ghpvc/?username=Adityasonar29&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  </h1>
+</div>
 
 ## 💫 About Me:
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
