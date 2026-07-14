@@ -17,6 +17,7 @@
 
 I am Aditya Vispute, a computer science engineering student and software developer with hands-on experience in AI-integrated applications, backend systems, and automation.<br><br>I design and build end-to-end software solutions, emphasizing clean architecture, performance, and maintainability. My work goes beyond coursework and focuses on production-grade engineering practices, including API design, system optimization, and secure data handling.<br><br>I am highly self-driven, comfortable working across the stack, and continuously upskilling to meet industry and enterprise-level standards. My long-term objective is to contribute to high-impact engineering teams working on large-scale systems.
 
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aditya_vispute)
